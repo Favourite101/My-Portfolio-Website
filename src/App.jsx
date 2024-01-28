@@ -30,9 +30,9 @@ const siteProps = {
   gitHub: "Favourite101",
   instagram: "fav.fantasy",
   linkedIn: "favourtunmibi",
-  medium: "",
+  medium: "@0favourite001",
   twitter: "Fav_fantasy_",
-  youTube: "Oluwatunmibi Favour",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
