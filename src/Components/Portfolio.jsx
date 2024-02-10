@@ -34,7 +34,7 @@ const projectList = [
     title: "Tribble Newsletters",
     description:
       "Created a newsletter along with my team members for the Tribble community to keep members up to date on the latest news and events. Worked on the backend and frontend of the newsletter.",
-    url: "https://github.com/shadowdevcode/school-newsletter-system",
+    url: "https://tribblenews.000webhostapp.com",
   },
   {
     title: "School Management System",
